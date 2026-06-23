@@ -2,7 +2,7 @@
 
 A Python-based orbital mechanics simulator that propagates satellite trajectories in three dimensions under Earth's non-spherical gravity field, modelled via zonal harmonic perturbations up to fourth order (J2, J3, J4). Supports Earth, Mars, and Moon as central bodies, orbital element input, impulsive maneuvers, ECI→ECEF frame transformation, ground track generation, and a Tkinter GUI.
 
-> Built by a 1st-year B.Tech Mechanical Engineering student as a self-driven deep-dive into high-fidelity astrodynamics — bridging the gap between two-body Keplerian models and professional tools like GMAT and STK.
+> Built by a 1st-year B.Tech Mechanical Engineering student (in 2025) as a self-driven deep-dive into high-fidelity astrodynamics — bridging the gap between two-body Keplerian models and professional tools like GMAT and STK.
 
 ---
 
